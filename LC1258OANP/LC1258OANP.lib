@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LC1258OANP
+#/1300097/1402786/2.50/5/2/Switch
+DEF LC1258OANP S 0 30 Y Y 1 F N
+F0 "S" 850 300 50 H V L CNN
+F1 "LC1258OANP" 850 200 50 H V L CNN
+F2 "LC1258OANP" 850 100 50 H I L CNN
+F3 "https://configured-product-images.s3.amazonaws.com/2D/specs/LC1258OANP.pdf" 850 0 50 H I L CNN
+F4 "PUSHBUTTON, 300mA, 30VDC SPDT, On-(On) Through Hole, Right Angle" 850 -100 50 H I L CNN "Description"
+F5 "8.3" 850 -200 50 H I L CNN "Height"
+F6 "E-Switch" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LC1258OANP" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "612-LC1258OANP" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/E-Switch/LC1258OANP?qs=%252BZnE%2FxbLNR%252BwgkzAoWCFrA%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NO 1 0 0 200 R 50 50 0 0 P
+X COM 2 0 -100 200 R 50 50 0 0 P
+X NC 3 0 -200 200 R 50 50 0 0 N
+X MH1 MH1 1000 0 200 L 50 50 0 0 P
+X MH2 MH2 1000 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

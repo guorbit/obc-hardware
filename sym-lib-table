@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LC1258EENP")(type "KiCad")(uri "${KIPRJMOD}/LC1258EENP/LC1258EENP.kicad_sym")(options "")(descr ""))
+  (lib (name "LC1258OANP")(type "KiCad")(uri "${KIPRJMOD}/LC1258OANP/LC1258OANP.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC4411ES5#TRMPBF")(type "KiCad")(uri "${KIPRJMOD}/LTC4411/LTC4411ES5#TRMPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "TMP36GT9")(type "KiCad")(uri "${KIPRJMOD}/TMP36GT9/TMP36GT9.kicad_sym")(options "")(descr ""))
+)

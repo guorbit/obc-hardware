@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LC1258EENP")(type "KiCad")(uri "${KIPRJMOD}/LC1258EENP")(options "")(descr ""))
+  (lib (name "LC1258OANP")(type "KiCad")(uri "${KIPRJMOD}/LC1258OANP")(options "")(descr ""))
+  (lib (name "graphics")(type "KiCad")(uri "${KIPRJMOD}/graphics")(options "")(descr ""))
+)
