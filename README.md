@@ -17,3 +17,6 @@ Available [HERE](https://gla.sharepoint.com/:b:/s/GUorbit/EcqzIoVTQb1NrapEKPAgqE
 
 ### Mechanical Drawing
 Available [HERE](https://gla.sharepoint.com/:b:/s/GUorbit/EUr8ayuSMrpKpmlO9UEF-kwB01D8GUk2koGHjnPf7s4Tdw?e=q49YmD) (University of Glasgow login required)
+
+### 3D Model for CAD
+Available under the [CAD](/CAD) directory in STEP and FreeCAD formats
