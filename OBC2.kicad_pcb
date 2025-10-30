@@ -56,6 +56,7 @@
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
+				(color "Blue")
 				(thickness 0.01)
 			)
 			(layer "F.Cu"
@@ -75,6 +76,7 @@
 			)
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
+				(color "Blue")
 				(thickness 0.01)
 			)
 			(layer "B.Paste"
@@ -3393,16 +3395,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "5db9c769-32be-4c9b-995d-fbd10a6f7826")
-		)
-		(fp_line
-			(start -3.06 -1.06)
-			(end -3.06 59.06)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "5e9f3721-54da-454e-892b-6ce12e4a974d")
 		)
 		(fp_line
 			(start 1.5 59.5)
@@ -22783,56 +22775,6 @@
 		(sheetfile "OBC2.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.06 1)
-			(end 1.06 59.06)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "243bd4a1-b735-4267-a95b-29796596a765")
-		)
-		(fp_line
-			(start 1.06 -1.06)
-			(end 1.06 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "38aa27fa-1770-4e79-b138-9b300ab5137d")
-		)
-		(fp_line
-			(start 0 -1.06)
-			(end 1.06 -1.06)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "86b47f49-a472-43ec-9034-79ce9104fbc3")
-		)
-		(fp_line
-			(start -1 1)
-			(end 1.06 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "fb48d6f8-8692-4ffb-b4a0-6c0972f0aafd")
-		)
-		(fp_line
-			(start -1 -1.06)
-			(end -1 1)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "31405f94-47f2-4c07-8489-c725dd7d030a")
-		)
-		(fp_line
 			(start -3.06 59.06)
 			(end 1.06 59.06)
 			(stroke
@@ -22844,7 +22786,7 @@
 		)
 		(fp_line
 			(start -3.06 -1.06)
-			(end -1 -1.06)
+			(end 1.06 -1.06)
 			(stroke
 				(width 0.12)
 				(type solid)

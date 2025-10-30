@@ -26,6 +26,5 @@ Available under the [CAD](/CAD) directory in STEP and FreeCAD formats
 
 ## Next Revision TODOs
 
-- [ ] Change R9, R10 to 330ohm so the LED is not so dim
 - [ ] Replace HSE, LSE crystals with TCXO for precision
 - [ ] Use another LTC4411 to protect the SWD port
